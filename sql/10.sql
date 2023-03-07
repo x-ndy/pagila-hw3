@@ -10,6 +10,7 @@
  * 2. https://www.postgresqltutorial.com/postgresql-window-function/
  */
 
+
 SELECT *
 FROM (
     SELECT
